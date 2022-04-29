@@ -9,15 +9,14 @@ import numpy as np
 import math
 import statsmodels.api as sm
 from statsmodels.tsa.stattools import adfuller
-
 import itertools as it
-
-import plotly.express as px
 
 from sklearn.cluster import OPTICS
 from sklearn.decomposition import PCA
 from sklearn import preprocessing
 from sklearn.manifold import TSNE
+
+import plotly.express as px
   
 class PairsClustering:    
     """
