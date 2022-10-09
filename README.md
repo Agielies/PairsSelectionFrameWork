@@ -1,4 +1,4 @@
-# Pair selection Framework
+# Pairs selection Framework
 
 ---
 
